@@ -1,4 +1,4 @@
-## locacaoCarro. ![visitors](https://visitor-badge.laobi.icu/badge?page_id=locacaoCarro)
+## locacaoCarro.
 ##### imagen Login
 ![telalogin](https://user-images.githubusercontent.com/72363971/111016931-48361d00-838f-11eb-8348-3b0c223c4eb3.png).
 ##### imagen locação
